@@ -1,0 +1,1 @@
+pip install --upgrade flask mysql-connector-python bcrypt
